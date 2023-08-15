@@ -1,6 +1,0 @@
-I left off on 8-14 with the submit button not working on the code from: https://www.youtube.com/watch?v=dRl5jd77mv4
-
-I asked chatgpt to write some code and it told me to use a component level design instead of creating a server evt
-
-next approach:
-ditch the server, try developing it to just be on a component? maybe?
