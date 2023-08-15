@@ -1,7 +1,11 @@
 import React from 'react'
 import Form from "./Form";
+// import ChatGPT from './ChatGPT';
+
 const Home = () => {
   return (
+    <body>
+      
 <section className="bg-gray-900 text-white">
   <div
     className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center"
@@ -16,7 +20,7 @@ const Home = () => {
       </h1>
 
       <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
-       Utilizing OpenAi's ChatGPT API, this app will generate cheeky
+       Harness the power of OpenAi to generate cheeky
        little notes you should totally not use to breakup with someone. I mean, you can...but we are not responsible for the consequences.
       </p>
       <p className="mx-auto mt-4 max-w-xl sm:text-xs">
@@ -25,11 +29,11 @@ const Home = () => {
 
     </div>
   </div>
-<Form />
 </section>
 
+<Form />
 
-
+</body>
   )
 }
 
