@@ -21,7 +21,7 @@ Breakup-AI was created as a lighthearted experiment to see what happens when you
 
  ## Getting Started
 
-This code is currently not hosted anywhere **(though this is going to happen...eventually -___-)**. To get the UI up and running you'll have to use your local machine and follow these steps:
+This code is currently not hosted anywhere **(though this is going to happen...eventually 😕)**. To get the UI up and running you'll have to use your local machine and follow these steps:
 ### Note: If you are familiar with launching React Applications from your local device, these instructions should seem pretty standard.
 
 1. **Download and Extract the ZIP**
