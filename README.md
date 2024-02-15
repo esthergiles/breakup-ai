@@ -32,7 +32,7 @@ This code is currently not hosted anywhere **(though this is going to happen...e
    - Open the extracted folder in your preferred code editor.
    - Locate the `.env` file in the project's root directory.
    - Inside the `.env` file, find the line with `OPENAI_KEY=YOUR_OPENAI_KEY`.
-   - Replace `YOUR_OPENAI_KEY` with your actual OpenAI API key, which you can obtain from the OpenAI platform.
+   - Replace `YOUR_OPENAI_KEY` with your actual OpenAI API key, which you can [obtain from the OpenAI platform](https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/).
 
 3. **Check Node.js Installation**
    - Open a command terminal on your computer.
